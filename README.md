@@ -13,7 +13,7 @@ Generating .clang_complete file (for Vim autocompletion)
 
 1. Clean build files
 ```
-cd build/
+cd build/;
 rm -rf *
 ```
 2. Run `CC='../cc_args.py gcc' CXX='../cc_args.py g++' cmake ..`
