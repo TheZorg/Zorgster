@@ -1,0 +1,4 @@
+-I/Users/Fab/Programming/CPP/Zorgster/src
+-I/Users/Fab/Programming/CPP/Zorgster/build
+-I/Library/Frameworks/SFML.framework/Headers
+-I/System/Library/Frameworks/GLUT.framework/Headers

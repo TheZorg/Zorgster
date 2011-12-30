@@ -1,0 +1,6 @@
+#ifndef ZORGSTER_CONFIG_H
+#define ZORGSTER_CONFIG_H
+
+#define DATA_PATH "${DATA_DIR}"
+
+#endif //ZORGSTER_CONFIG_H
