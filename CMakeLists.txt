@@ -61,7 +61,3 @@ target_link_libraries(${EXECUTABLE_NAME} ${CORELIBS})
 
 # add some compiler flags
 set(CMAKE_CXX_FLAGS "-g -Wall -Wextra -Weffc++")
-
-message(STATUS
-    ${Boost_INCLUDE_DIR}
-    )
